@@ -115,3 +115,32 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+### RUBY STUFF
+
+*.gem
+*.rbc
+docs/.bundle
+docs/.github
+docs/vendor/
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+*.DS_STORE
+build/
+.cache
+.vagrant
+.sass-cache
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+.idea/
