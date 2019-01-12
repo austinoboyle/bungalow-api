@@ -5,8 +5,7 @@
 ### Prerequisites
 
 1. MySQL Server installed and running locally with default config.
-    - Can also change the database config in `bungalow/settings.py` to point
-    - to a different MySQL URI (cloud host, etc)
+    - Can also change the database config in `bungalow/settings.py` to point to a different MySQL URI (cloud host, etc)
 
 ### Setup Instructions
 
